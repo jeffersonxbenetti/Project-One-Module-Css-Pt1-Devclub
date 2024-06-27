@@ -37,5 +37,7 @@
 
 <h4 align="center">Link do Site</h4>
 <div align="center">
-  <img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg website:http://monip.org" />
+  <a href="https://jeffersonxbenetti.github.io/Project-One-Module-Css-Pt1-Devclub/">
+    <img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" />
+  </a>
 </div>
